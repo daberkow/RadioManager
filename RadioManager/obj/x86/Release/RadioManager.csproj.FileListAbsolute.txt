@@ -1,0 +1,30 @@
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\RadioManager.csproj.ResolveComReference.cache
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\bin\Release\RadioManager.exe
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\bin\Release\RadioManager.pdb
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\bin\Release\Interop.WMPLib.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\RadioManager.RadioManager.resources
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\RadioManager.Properties.Resources.resources
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\RadioManager.exe
+C:\Users\Dan\documents\visual studio 2010\Projects\RadioManager\RadioManager\obj\x86\Release\RadioManager.pdb
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\RadioManager.csproj.ResolveComReference.cache
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\RadioManager.exe
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\RadioManager.pdb
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\bin\Release\RadioManager.exe
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\bin\Release\RadioManager.pdb
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\bin\Release\Interop.WMPLib.dll
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\bin\Release\AxInterop.WMPLib.dll
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\RadioManager.RadioManager.resources
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\RadioManager.Properties.Resources.resources
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\daberkow\Desktop\RadioManager\RadioManager\RadioManager\obj\x86\Release\ResGen.write.1.tlog
